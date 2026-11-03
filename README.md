@@ -3,7 +3,7 @@
 Este é um algoritmo que toma decisões com base na quantidade de energia disponível em comparação à quantidade de energia sendo consumida. 
 
 Para utilizar este programa, basta abrir o arquivo "colonia.py" e rodar o código. 
-O código funciona com base nos seguintes valores (que podem ser alterados pelo usuário)
+O código funciona com base nos seguintes valores (que podem ser alterados pelo usuário):
 
 <img width="386" height="459" alt="image" src="https://github.com/user-attachments/assets/f17eeb96-4ebc-46f9-a200-7fdb4acd603f" />
 
